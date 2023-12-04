@@ -80,7 +80,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```bash
-  git clone https://github.com/rbd3/https://github.com/rbd3/Hello-rails-back-end.git
+  git clone https://github.com/rbd3/Hello-rails-back-end.git
 ```
 
 You need to setup database for these project
