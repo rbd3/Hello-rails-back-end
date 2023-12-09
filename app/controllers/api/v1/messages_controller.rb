@@ -1,2 +1,6 @@
-class Api::V1::MessagesController < ApplicationController
+module Api
+  module V1
+    class MessagesController < ApplicationController
+    end
+  end
 end
